@@ -8,8 +8,4 @@ https://www.code-inspector.com/project/27576/status/svg
 [![Unit testing](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/Stepin-Maintenance-of-pharmacy-records-/actions/workflows/Unittest.yml/badge.svg)](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/Stepin-Maintenance-of-pharmacy-records-/actions/workflows/Unittest.yml)
 ![alt text](https://image.shutterstock.com/image-vector/pharmacy-pharmacist-client-counter-drugstore-260nw-1438618277.jpg)
 [![Contribution Check - Git Inspector](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/Stepin-Maintenance-of-pharmacy-records-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/Stepin-Maintenance-of-pharmacy-records-/actions/workflows/gitinspector.yml)
-| **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** |   
-|-------------|--------------------------------------------------------------|------------|-------------|
-|  L5_01      |guessing a number| num=5, guess=7| your number is greater than the guess number | 
-|  L5_02      |guessing a number| num=5, guess=11| enter the number within the range| 
 
